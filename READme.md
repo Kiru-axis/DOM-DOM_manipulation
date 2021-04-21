@@ -1,6 +1,6 @@
-# Introduction to Document Object Module
+# Simple number game
 
-## whatever is in the html document also has to be in the DOM.
+_whatever is in the html document also has to be in the DOM._
 
 #### Handling click events:
 
@@ -9,3 +9,5 @@
 - The eventListener waits for such an event to happen and then react to it.
 - The addEventListener takes two arguements i.e the "event" and the event handler function which specifies what will happen when you you use the "event".
 
+### Live link
+[link](https://kiru-axis.github.io/DOM-DOM_manipulation/)  
